@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"ISO","STRING","2","0","0"
+"COUNTRY","STRING","44","0","0"
+"REGION","INTEGER","3","3","0"

@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"REGION","INTEGER","3","3","0"
+"NAME","STRING","15","0","0"

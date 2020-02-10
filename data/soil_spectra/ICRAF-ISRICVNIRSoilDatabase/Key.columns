@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"Attribute","STRING","9","0","0"
+"Value","STRING","5","0","0"
+"Description","STRING","61","0","0"
+"FAO77","STRING","5","0","0"
+"FAO90","STRING","5","0","0"
+"KEY_ID","STRING","11","0","0"
+"Order","STRING","2","2","0"

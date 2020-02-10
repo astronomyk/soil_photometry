@@ -1,0 +1,90 @@
+# https://www.ushio-optosemi.com/en/products/led/std/standard/mold_type.html
+# FWHM equivalent to R~10
+
+Peak Wavelength	-01	-02	-03	-04	-05	-06	-09
+375nm	L375R-01	L375R-02	L375R-03	L375R-04	L375R-05	L375R-06	L375R-09
+385nm	L385R-01	L385R-02	L385R-03	L385R-04	L385R-05	L385R-06	L385R-09
+395nm	L395R-01	L395R-02	L395R-03	L395R-04	L395R-05	L395R-06	L395R-09
+405nm	L405R-01	L405R-02	L405R-03	L405R-04	L405R-05	L405R-06	L405R-09
+415nm	L415R-01	L415R-02	L415R-03	L415R-04	L415R-05	L415R-06	L415R-09
+420nm	L420R-01	L420R-02	L420R-03	L420R-04	L420R-05	L420R-06	L420R-09
+430nm	L430R-01	L430R-02	L430R-03	L430R-04	L430R-05	L430R-06	Please ask to sales window with the inquiry form
+450nm	L450-01	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L450-04	L450-05	L450-06	L450-09
+450nm	L450R-01	L450R-02	L450R-03	L450R-04	L450R-05	L450R-06	Please ask to sales window with the inquiry form
+470nm	L470-01	L470-02	L470-03	L470-04	L470-05	L470-06	L470-09
+490nm	L490-01	L490-02	L490-03	L490-04	Please ask to sales window with the inquiry form	L490-06	Please ask to sales window with the inquiry form
+505nm	L505-01	L505-02	L505-03	L505-04	L505-05	L505-06	L505-09
+525nm	L525-01	L525-02	L525-03	L525-04	L525-05	L525-06	L525-09
+545nm	L545-01	L545-02	Please ask to sales window with the inquiry form	L545-04	L545-05	L545-06	Please ask to sales window with the inquiry form
+565nm	L565-01U	L565-02U	L565-03U	L565-04U	L565-05U	L565-06U	L565-09U
+570nm	L570-01	L570-02	L570-03	L570-04	L570-05	L570-06	L570-09
+590nm	L590-01	L590-02	L590-03	L590-04	L590-05	L590-06	L590-09
+600nm	L600-01	L600-02	L600-03	L600-04	L600-05	L600-06	L600-09
+610nm	L610-01	L610-02	L610-03	L610-04	L610-05	L610-06	L610-09
+625nm	L625-01	L625-02	L625-03	L625-04	L625-05	L625-06	L625-09
+630nm	L630-01	L630-02	L630-03	L630-04	L630-05	L630-06	L630-09
+645nm	L645-01	L645-02	L645-03	L645-04	L645-05	L645-06	L645-09
+660nm	L660N-01	L660N-02	L660N-03	L660N-04	L660N-05	L660N-06	Please ask to sales window with the inquiry form
+670nm	L670-01V	L670-02V	L670-03V	L670-04V	L670-05V	L670-06V	L670-09V
+680nm	L680-01AU	L680-02AU	L680-03AU	L680-04AU	L680-05AU	L680-06AU	L680-09AU
+690nm	L690-01AU	L690-02AU	L690-03AU	L690-04AU	L690-05AU	L690-06AU	L690-09AU
+700nm	L700-01AU	L700-02AU	L700-03AU	L700-04AU	L700-05AU	L700-06AU	L700-09AU
+720nm	L720-01AU	L720-02AU	L720-03AU	L720-04AU	L720-05AU	L720-06AU	L720-09AU
+730nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L730-04AU	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+735nm	L735-01AU	L735-02AU	L735-03AU	L735-04AU	L735-05AU	L735-06AU	L735-09AU
+740nm	L740-01AU	L740-02AU	L740-03AU	L740-04AU	L740-05AU	L740-06AU	L740-09AU
+750nm	L750-01AU	L750-02AU	L750-03AU	L750-04AU	L750-05AU	L750-06AU	L750-09AU
+760nm	L760-01AU	L760-02AU	L760-03AU	L760-04AU	L760-05AU	L760-06AU	L760-09AU
+770nm	L770-01AU	L770-02AU	L770-03AU	L770-04AU	L770-05AU	L770-06AU	L770-09AU
+780nm	L780-01AU	L780-02AU	L780-03AU	L780-04AU	L780-05AU	L780-06AU	L780-09AU
+780nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L780-09AU-S
+800nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L800-06-55	Please ask to sales window with the inquiry form
+800nm	L800-01AU	L800-02AU	L800-03AU	L800-04AU	L800-05AU	L800-06AU	L800-09AU
+805nm	L805-01AU	L805-02AU	Please ask to sales window with the inquiry form	L805-04AU	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+810nm	L810-01AU	L810-02AU	L810-03AU	L810-04AU	L810-05AU	L810-06AU	L810-09AU
+820nm	L820-01AU	L820-02AU	L820-03AU	L820-04AU	L820-05AU	L820-06AU	L820-09AU
+830nm	L830-01AU	L830-02AU	L830-03AU	L830-04AU	L830-05AU	L830-06AU	L830-09AU
+830nm	L830-01UP	L830-02UP	L830-03UP	L830-04UP	L830-05UP	L830-06UP	L830-09UP
+830nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L830N-04E-35	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+840nm	L840-01AU	L840-02AU	L840-03AU	L840-04AU	L840-05AU	L840-06AU	L840-09AU
+850nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L850-06-2C	Please ask to sales window with the inquiry form
+850nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L850-06LH	L850-09LH
+850nm	L850-01UP	L850-02UP	L850-03UP	L850-04UP	L850-05UP	L850-06UP	L850-09UP
+850nm	L850F-01U	L850F-02U	L850F-03U	L850F-04U	L850F-05U	L850F-06U	L850F-09U
+850nm	L850F-01-55	Please ask to sales window with the inquiry form	L850F-03-55	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L850F-06-55	Please ask to sales window with the inquiry form
+850nm	L850D-01	L850D-02	L850D-03	L850D-04	L850D-05	L850D-06	L850D-09
+850nm	L850D-01-50	L850D-02-50	Please ask to sales window with the inquiry form	L850D-04-50	L850D-05-50	L850D-06-50	L850D-09-50
+850nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L850-04L6CU	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+850nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L850F-04L6CU	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+850nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L850D-04-50L6CU	Please ask to sales window with the inquiry form	L850D-06-50L6CU	Please ask to sales window with the inquiry form
+870nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L870-04-35	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+870nm	L870-01UP	L870-02UP	L870-03UP	L870-04UP	L870-05UP	L870-06UP	L870-09UP
+870nm	L870F-01U	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L870F-04U	L870F-05U	L870F-06U	L870F-09U
+870nm	Please ask to sales window with the inquiry form	L870F-02-45	Please ask to sales window with the inquiry form	L870F-04-45	L870F-05-45	L870F-06-45	Please ask to sales window with the inquiry form
+870nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L870F-04-50	Please ask to sales window with the inquiry form	L870F-06-50	Please ask to sales window with the inquiry form
+870nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L870F-03-55	L870F-04-55	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+880nm	L880-01AU	L880-02AU	L880-03AU	L880-04AU	L880-05AU	L880-06AU	L880-09AU
+880nm	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	L880-05-55-2D	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+890nm	L890-01AU	L890-02AU	L890-03AU	L890-04AU	L890-05AU	L890-06AU	L890-09AU
+910nm	L910-01	L910-02	L910-03	L910-04	L910-05	L910-06	L910-09
+910nm	L910D-01	L910D-02	L910D-03	L910D-04	Please ask to sales window with the inquiry form	L910D-06	Please ask to sales window with the inquiry form
+940nm	L940-01AU	L940-02AU	L940-03AU	L940-04AU	L940-05AU	L940-06AU	L940-09AU
+940nm	Please ask to sales window with the inquiry form	L940-02L6CU	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form	Please ask to sales window with the inquiry form
+940nm	L940D-01	L940D-02	L940D-03	L940D-04	L940D-05	L940D-06	Please ask to sales window with the inquiry form
+970nm	L970-01	L970-02	L970-03	L970-04	L970-05	L970-06	L970-09
+970nm	Please ask to sales window with the inquiry form	L970D-02	L970D-03	L970D-04	L970D-05	L970D-06	Please ask to sales window with the inquiry form
+980nm	L980D-01	L980D-02	L980D-03	L980D-04	L980D-05	L980D-06	Please ask to sales window with the inquiry form
+1050nm	L1050G-01	L1050G-02	L1050G-03	L1050G-04	L1050G-05	L1050G-06	Please ask to sales window with the inquiry form
+1050nm	L1050-01	L1050-02	L1050-03	L1050-04	L1050-05	L1050-06	L1050-09
+1050nm	L1050S-01	L1050S-02	L1050S-03	L1050S-04	L1050S-05	L1050S-06	L1050S-09
+1070nm	L1070-01	L1070-02	L1070-03	L1070-04	L1070-05	L1070-06	L1070-09
+1200nm	L1200-01	L1200-02	L1200-03	L1200-04	L1200-05	L1200-06	L1200-09
+1200nm	L1200S-01	L1200S-02	L1200S-03	L1200S-04	L1200S-05	L1200S-06	L1200S-09
+1300nm	L1300-01	L1300-02	L1300-03	L1300-04	L1300-05	L1300-06	L1300-09
+1300nm	L1300S-01	L1300S-02	L1300S-03	L1300S-04	L1300S-05	L1300S-06	L1300S-09
+1450nm	L1450-01	L1450-02	L1450-03	L1450-04	L1450-05	L1450-06	L1450-09
+1450nm	L1450S-01	L1450S-02	L1450S-03	L1450S-04	L1450S-05	L1450S-06	L1450S-09
+1550nm	L1550-01	L1550-02	L1550-03	L1550-04	L1550-05	L1550-06	L1550-09
+1550nm	L1550S-01	L1550S-02	L1550S-03	L1550S-04	L1550S-05	L1550S-06	L1550S-09
+1650nm	L1650-01	L1650-02	L1650-03	L1650-04	L1650-05	L1650-06	L1650-09
+1650nm	L1650S-01	L1650S-02	L1650S-03	L1650S-04	L1650S-05	L1650S-06	L1650S-09
