@@ -4,14 +4,13 @@ Notes
 The ICRAF database can be opened and exported to TXT with this:
 https://www.netzwelt.de/software-download/18341-mdb-viewer-plus.html
 
-Soil pH
--------
+Question about soil pH values
+-----------------------------
 .. admonition:: Question
 
-   The database gives two values for soil pH for some locations
-
-   The database columns are PHH2O and PHKCL. The question is: what is the
-   relationship between these two? Becasue when plotted they don't correlate
+   The database gives two values for soil pH for some locations: PHH2O, PHKCL.
+   The question is: what is the relationship between these two? Becasue when
+   plotted they don't correlate
    well.
 
 .. plot::
